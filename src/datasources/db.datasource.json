@@ -1,0 +1,9 @@
+{
+  "name": "db",
+  "connector": "postgresql",
+  "url": "postgres://imeter:imeter@localhost/imeter",
+  "host": "localhost",
+  "user": "imeter",
+  "password": "imeter",
+  "database": "imeter"
+}
