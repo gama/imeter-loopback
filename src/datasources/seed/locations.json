@@ -1,0 +1,12 @@
+[
+  {"customer": "Condomínio Alphaville", "name": "Casa 1"},
+  {"customer": "Condomínio Alphaville", "name": "Casa 2"},
+  {"customer": "Condomínio Alphaville", "name": "Casa 3"},
+  {"customer": "Condomínio Alphaville", "name": "Casa 4"},
+  {"customer": "Condomínio do Seu Zé",  "name": "Apartamento 101"},
+  {"customer": "Condomínio do Seu Zé",  "name": "Apartamento 102"},
+  {"customer": "Condomínio do Seu Zé",  "name": "Apartamento 201"},
+  {"customer": "Condomínio do Seu Zé",  "name": "Apartamento 202"},
+  {"customer": "Condomínio do Seu Zé",  "name": "Apartamento 301"},
+  {"customer": "Condomínio do Seu Zé",  "name": "Apartamento 302"}
+]

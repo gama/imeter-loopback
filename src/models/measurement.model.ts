@@ -4,13 +4,13 @@ import {Operator} from './operator.model';
 
 @model()
 export class Measurement extends Entity {
-  @property({ type: 'number', id: true, required: true, generated: true })
+  @property({ type: 'number', id: true, generated: true })
   id: number;
 
   @property({ type: 'date', required: true })
   timestamp: string;
 
-  @property({ type: 'number', required: true })
+  @property({ type: 'number', required: true, postgresql: { dataType: 'REAL' }})
   value: number;
 
   @belongsTo(() => Meter)

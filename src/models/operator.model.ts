@@ -3,7 +3,7 @@ import {Measurement} from './measurement.model';
 
 @model()
 export class Operator extends Entity {
-  @property({ type: 'number', id: true, required: true, generated: true })
+  @property({ type: 'number', id: true, generated: true })
   id: number;
 
   @property({ type: 'string', required: true })

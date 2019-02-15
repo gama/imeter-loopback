@@ -1,0 +1,18 @@
+[
+  {"location": "Casa 1",          "kind": "water", "serialNumber": "000001", "model": "M1"},
+  {"location": "Casa 1",          "kind": "gas",   "serialNumber": "000002", "model": "M2"},
+  {"location": "Casa 2",          "kind": "water", "serialNumber": "000003", "model": "M1"},
+  {"location": "Casa 2",          "kind": "gas",   "serialNumber": "000004", "model": "M2"},
+  {"location": "Casa 3",          "kind": "water", "serialNumber": "000005", "model": "M3"},
+  {"location": "Casa 3",          "kind": "gas",   "serialNumber": "000006", "model": "M4"},
+  {"location": "Casa 4",          "kind": "water", "serialNumber": "000007", "model": "M3"},
+  {"location": "Apartamento 101", "kind": "water", "serialNumber": "000009", "model": "M1"},
+  {"location": "Apartamento 101", "kind": "gas",   "serialNumber": "000010", "model": "M2"},
+  {"location": "Apartamento 102", "kind": "water", "serialNumber": "000011", "model": "M1"},
+  {"location": "Apartamento 102", "kind": "gas",   "serialNumber": "000012", "model": "M2"},
+  {"location": "Apartamento 201", "kind": "water", "serialNumber": "000013", "model": "M1"},
+  {"location": "Apartamento 201", "kind": "gas",   "serialNumber": "000014", "model": "M4"},
+  {"location": "Apartamento 202", "kind": "water", "serialNumber": "000015", "model": "M3"},
+  {"location": "Apartamento 301", "kind": "water", "serialNumber": "000017", "model": "M3"},
+  {"location": "Apartamento 302", "kind": "water", "serialNumber": "000019", "model": "M3"}
+]

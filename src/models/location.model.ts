@@ -4,7 +4,7 @@ import {Meter} from './meter.model';
 
 @model()
 export class Location extends Entity {
-  @property({ type: 'number', id: true, required: true, generated: true})
+  @property({ type: 'number', id: true, required: false, generated: true})
   id: number;
 
   @property({ type: 'string', required: true })

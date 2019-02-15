@@ -5,5 +5,6 @@
   "host": "localhost",
   "user": "imeter",
   "password": "imeter",
-  "database": "imeter"
+  "database": "imeter",
+  "debug": true
 }
